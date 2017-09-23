@@ -1,3 +1,7 @@
+My USB to ethernet adapter
+
+make && sudo make install && modprobe asix
+
 ============================================================================
 ASIX AX88178 USB 2.0 Gigabit Ethernet Network Adapter
 ASIX AX88772 USB 2.0 Fast Ethernet Network Adapter
